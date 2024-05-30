@@ -106,12 +106,12 @@ export function SupportPage() {
           items={[
             <Item title={t("support.q1.title")}>
               <Trans i18nKey="support.q1.body">
-                <MwLink to="https://discord.gg/r5cYshWM4G" />
+                <MwLink to="https://discord.gg" />
               </Trans>
             </Item>,
             <Item title={t("support.q2.title")}>
               <Trans i18nKey="support.q2.body">
-                <MwLink to="https://github.com/sussy-code/smov" />
+                <MwLink to="https://github.com" />
               </Trans>
             </Item>,
           ]}
