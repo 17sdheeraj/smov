@@ -10,7 +10,7 @@
 | Extension      | [extension](https://sussy-code.github.io/docs/extension)         | [source code](https://github.com/sussy-code/browser-ext) |
 | Proxy          | [sudo-proxy](https://sudo-proxy.up.railway.app)                  | [source code](https://github.com/sussy-code/sudo-proxy)  |             
 | Backend        | [sudo-backend](https://backend.sudo-flix.lol)                    | [source code](https://github.com/sussy-code/backend)     |
-| Frontend       | [sudo-flix](https://sudo-flix.lol), [2](https://flix.kanded.xyz) | [source code](https://github.com/sussy-code/smov)        |
+| Frontend       | [sudo-flix](https://sudo-flix.lol), [2](https://flix.kanded.xyz) | [source code](https://github.com/sussy-code/smov)        | 
 
 ***I provide these if you are not able to host yourself, though I do encourage hosting the frontend.***
 
